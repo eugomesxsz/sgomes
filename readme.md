@@ -1,4 +1,4 @@
-## Olá eu sou o Cauã Gomes, criador de conteúdo de programação e tecnologia!
+## Olá eu sou o Cauã Gomes, cursando programação e tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugomesxsz&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
